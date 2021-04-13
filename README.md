@@ -9,7 +9,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=beck2301&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Zhenye's GitHub Stats" />
 
 
-<a href="https://github.com/beck2301/beck2301">
+<a href="https://github.com/Beck2301/beck2301">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=beck2301&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
