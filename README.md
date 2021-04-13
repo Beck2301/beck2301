@@ -7,13 +7,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beck2301&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=beck2301&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Zhenye's GitHub Stats" />
-</a>
+
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beck2301&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=beck2301&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Zhenye's GitHub Stats" />
 </a>
 
 ![GitHub Logo](https://i.ibb.co/0cCqD9N/BE-LG-Baner.png)
