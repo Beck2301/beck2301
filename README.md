@@ -10,7 +10,12 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beck2301&show_icons=true)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beck2301&show_icons=true&theme=radical)
+
+First Header | Second Header
+------------ | -------------
+Content cell 1 | Content cell 2
+Content column 1 | Content column 2
 <!--
 **Beck2301/beck2301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
