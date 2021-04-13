@@ -16,6 +16,9 @@ First Header | Second Header
 ------------ | -------------
 Content cell 1 | Content cell 2
 Content column 1 | Content column 2
+
+![GitHub Logo](https://i.ibb.co/0cCqD9N/BE-LG-Baner.png)
+Format: ![Alt Text](url)
 <!--
 **Beck2301/beck2301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
