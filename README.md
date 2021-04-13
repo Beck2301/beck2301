@@ -1,10 +1,11 @@
 ![10](https://i.ibb.co/qJdxXS0/Dise-o-sin-t-tulo.gif)
 # 👋 Hello!
 ### Front end developer in process... 
-![10](https://i.ibb.co/qJdxXS0/Dise-o-sin-t-tulo.gif)
+
 ## &#x1f4c8; GitHub Stats
 
 ![Beck's GitHub stats](https://github-readme-stats.vercel.app/api?username=beck2301&hide=contribs,prs&theme=tokyonight&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beck2301&layout=compact&theme=tokyonight)](https://github.com/majoledesma/github-readme-stats)
+
 ![10](https://i.ibb.co/qJdxXS0/Dise-o-sin-t-tulo.gif)
 ## :v: Get in touch: 
 * :zap: Twitter: https://twitter.com/bryan_GVR
