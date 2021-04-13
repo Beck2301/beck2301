@@ -9,7 +9,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=beck2301&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Zhenye's GitHub Stats" />
 
 
-![Majo's GitHub stats](https://github-readme-stats.vercel.app/api?username=majoledesma&hide=contribs,prs&theme=buefy&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majoledesma&layout=compact&theme=buefy)](https://github.com/majoledesma/github-readme-stats)
+![Majo's GitHub stats](https://github-readme-stats.vercel.app/api?username=beck2301&hide=contribs,prs&theme=buefy&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beck2301&layout=compact&theme=buefy)](https://github.com/majoledesma/github-readme-stats)
 
 ![GitHub Logo](https://i.ibb.co/0cCqD9N/BE-LG-Baner.png)
 
