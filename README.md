@@ -4,8 +4,8 @@
 
 ## &#x1f4c8; GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beck2301&layout=compact&theme=slateorange)](https://github.com/beck2301/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beck2301&layout=compact)](https://github.com/beck2301/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beck2301&layout=compact&theme=tokyonight)](https://github.com/beck2301/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beck2301&layout=compact&theme=tokyonight)](https://github.com/beck2301/github-readme-stats)
 
 
 ![10](https://i.ibb.co/qJdxXS0/Dise-o-sin-t-tulo.gif)
