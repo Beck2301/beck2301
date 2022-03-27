@@ -14,6 +14,6 @@
 ![10](https://i.ibb.co/qJdxXS0/Dise-o-sin-t-tulo.gif)
 ## :v: Get in touch: 
 * :zap: Twitter: @bryan_gvr 
-* :zap: Instagram: https://www.instagram.com/bedev.me/
+* :zap: Instagram: https://www.instagram.com/bescobar__/
 * :zap: StackBlitz: https://stackblitz.com/@Beck2301
 * :zap: LinkdIn: https://www.linkedin.com/in/bryan-escobar-guevara/
