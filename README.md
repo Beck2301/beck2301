@@ -5,6 +5,8 @@
 ## &#x1f4c8; GitHub Stats
 <p align='center'>
  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=beck2301&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beck2301&layout=compact&theme=tokyonight" width="350"></a>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beck2301&layout=compact&theme=tokyonight)](https://github.com/beck2301/github-readme-stats)
 </p>
