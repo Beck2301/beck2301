@@ -1,6 +1,6 @@
 ![10](https://i.ibb.co/qJdxXS0/Dise-o-sin-t-tulo.gif)
 # 👋 Hello!
-### You can visit my [portafolio](http://bedev.me](https://bescobar-git-master-beck23s-projects.vercel.app/) :rocket:
+### You can visit my [portfolio](https://bescobar-git-master-beck23s-projects.vercel.app/) :rocket:
 
 ## &#x1f4c8; GitHub Stats
 <p align='center'>
